@@ -1,3 +1,5 @@
+TEST
+
 [![crates.io](https://img.shields.io/crates/v/dirs.svg)](https://crates.io/crates/dirs)
 [![API documentation](https://docs.rs/dirs/badge.svg)](https://docs.rs/dirs/)
 ![actively developed](https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg)
